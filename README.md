@@ -1,2 +1,1 @@
-# netology-devops
-netology
+![1](https://github.com/jo-os/netology-devops/blob/main/DevOps.pdf)
